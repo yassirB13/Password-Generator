@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    padding: 40px;
+}
+h1 {
+    color: #4ADF86;
+    font-size: 40px;
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    margin-bottom:10px ;
+
+}
+h1 span {
+    color: white;
+}
+
+p {
+    color: gainsboro;
+    margin-bottom: 40px;
+}
+
+button {
+    border: none;
+    color: white;
+    background-color: #10B981;
+    border-radius:4px ;
+    margin-bottom: 20px;
+    width: 191px;
+    height: 42px;
+
+}
+
+hr{
+    opacity: 0.1;
+    margin-bottom: 20px;
+}
+
+.passwords {
+    display: flex;
+    justify-content: space-between;
+}
+
+.password {
+    background-color: #273549;
+    border-radius: 6px;
+    width: 211px;
+    height: 39px;
+    color: #55F991;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
